@@ -503,10 +503,12 @@ flex-wrap: wrap;}
 .working-iteam{
   width: 370px;
   margin-right: 30px;
+  position: relative;
 }
 
 .working-iteam:last-child {
-  margin-right: 0;}
+ margin-right: 0;
+}
 
 .header-two{
     color: var(--text-header);
